@@ -1,0 +1,10 @@
+<resources>
+<string name="app_name">Boat Control</string>
+<string name="start_server">Start Server</string>
+<string name="waiting_server">Waiting for server setup...</string>
+<string name="set_destination">Set Destination Coordinates</string>
+<string name="usv_status_waiting">USV Status: Waiting for connection...</string>
+    <string name="server_running">Server running at %1$s. Waiting for USV connection...</string>
+    <string name="server_failed">Failed to start server.</string>
+
+</resources>
